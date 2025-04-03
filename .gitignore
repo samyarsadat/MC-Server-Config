@@ -1,0 +1,5 @@
+.idea
+server_config/data
+server_config/downloads
+server_config/srv-icon.png
+server_config/.env
