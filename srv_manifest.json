@@ -1,0 +1,66 @@
+{
+  "server_manifest_version": 1.0,
+  "datetime": "2025-04-03T18:23:00Z",
+  "server_info": {
+    "address": null,
+    "port": 25565,
+    "name": "Samyar's Minecraft Server",
+    "version": "1.20.1",
+    "modloader": "forge",
+    "modloader_version": "latest"
+  },
+  "mod_manifest": {
+    "curseforge": [
+      "xaeros-minimap",
+      "create",
+      "bellsandwhistles",
+      "create-ore-excavation",
+      "create-misc-and-things",
+      "create-encased",
+      "create-mechanical-spawner",
+      "create-ultimate-factory",
+      "immersive-engineering",
+      "pretty-pipes",
+      "storage-drawers",
+      "supplementaries",
+      "selene",
+      "refined-storage",
+      "kotlin-for-forge",
+      "geckolib",
+      "architectury-api",
+      "jei",
+      "create-industry",
+      "create-liquid-fuel",
+      "create-armory",
+      "create-guardian-beam-defense",
+      "create-diesel-generators",
+      "create-central-kitchen",
+      "createaddition",
+      "slice-and-dice",
+      "create-new-age",
+      "create-goggles",
+      "create-enchantment-industry",
+      "interiors",
+      "botarium"
+    ],
+    "modrinth": [],
+    "url_download": [
+      {
+        "name": "OptiFine 1.20.1 HD_U_I6",
+        "url": "https://drive.usercontent.google.com/uc?id=1IgxlpFvhFrj7fjjVWbr_9vUlgy776bKz&export=download",
+        "sha1": null
+      }
+    ]
+  },
+  "resourcepack_manifest": {
+    "vanillatweaks": [],
+    "curseforge": [],
+    "modrinth": [],
+    "url_download": []
+  },
+  "shaderpack_manifest": {
+    "curseforge": [],
+    "modrinth": [],
+    "url_download": []
+  }
+}

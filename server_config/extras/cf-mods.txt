@@ -1,0 +1,43 @@
+# CurseForge Mods List - Auto-downloaded
+create
+bellsandwhistles
+create-ore-excavation
+create-misc-and-things
+create-encased
+create-mechanical-spawner
+create-ultimate-factory
+immersive-engineering
+pretty-pipes
+storage-drawers
+supplementaries
+selene
+refined-storage
+kotlin-for-forge
+geckolib
+architectury-api
+jei
+
+# 1.20.1 Limited
+create-industry
+create-liquid-fuel
+create-armory
+create-guardian-beam-defense
+create-diesel-generators
+create-central-kitchen
+createaddition
+slice-and-dice
+create-new-age
+create-goggles
+create-enchantment-industry
+interiors
+botarium
+
+# Server-only
+clumps
+
+# 1.20.1 Create 0.6 Error
+#fishing-bobber-detector
+#create-connected
+#create-steam-n-rails
+#create-big-cannons
+#create-radars

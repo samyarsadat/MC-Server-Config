@@ -1,0 +1,51 @@
+services:
+  mc-server:
+    image: itzg/minecraft-server:latest
+    container_name: mc-server
+    hostname: mc-server
+    restart: unless-stopped
+    tty: true
+    stdin_open: true
+    env_file:
+      - mc-srv.env
+      - extras/mr-projects.env
+    networks:
+      mc-network:
+        ipv4_address: 172.18.0.2
+    environment:
+      CF_API_KEY: ${CF_API_KEY}
+      RCON_PASSWORD: ${RCON_PASSWORD}
+      MOTD: ${MOTD}
+    volumes:
+      - "./data:/data"
+      - "./downloads:/downloads"
+      - "./extras:/extras"
+      - "./srv-icon.png:/srv-icon.png"
+    ports:
+      - "25565:25565"
+
+  web-rcon:
+    image: itzg/rcon
+    container_name: web-rcon
+    hostname: web-rcon
+    restart: unless-stopped
+    env_file: web-rcon.env
+    networks:
+      mc-network:
+        ipv4_address: 172.18.0.3
+    depends_on:
+      mc-server:
+        condition: service_healthy
+    environment:
+      RWA_RCON_PASSWORD: ${RCON_PASSWORD}
+    ports:
+      - "4326:4326"
+      - "4327:4327"
+
+networks:
+  mc-network:
+    name: mc-internal-network
+    driver: bridge
+    ipam:
+      config:
+        - subnet: 172.18.0.0/16
