@@ -106,7 +106,8 @@ Supported mod-loaders as of version 1.0 are:
 <br>
 
 ### CurseForge Resource Format
-Under the hood, [mc-image-helper](https://github.com/itzg/mc-image-helper) is used to download files from CurseForge. As a result, the required format is the same as with the `mc-image-helper curseforge-files` command, which is as follows:
+Under the hood, [mc-image-helper](https://github.com/itzg/mc-image-helper) is used to download files from CurseForge. As a result, the required format is the same as with the `mc-image-helper curseforge-files` command.
+
 CurseForge projects (mods, resource packs, shader packs) can be specified with one of the following formats:
  - `<project ID>|<slug>:<file ID>`
  - `<project ID>|<slug>@<filename matcher>`
@@ -118,7 +119,8 @@ Note that unless a specific version is requested, the latest applicable version 
 <br>
 
 ### Modrinth Resource Format
-Under the hood, [mc-image-helper](https://github.com/itzg/mc-image-helper) is used to download files from Modrinth. As a result, the required format is the same as with the `mc-image-helper modrinth` command, which is as follows:
+Under the hood, [mc-image-helper](https://github.com/itzg/mc-image-helper) is used to download files from Modrinth. As a result, the required format is the same as with the `mc-image-helper modrinth` command.
+
 Modrinth projects (mods, resource packs, shader packs) can be specified with one of the following formats:
  - `<project ID>|<slug>:<release type>`
  - `<project ID>|<slug>:<version name/number>`
