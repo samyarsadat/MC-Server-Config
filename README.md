@@ -1,6 +1,5 @@
 <h1 align="center">Minecraft Server Configuration</h1>
 
-----
 These are the configuration files for my private Minecraft server.\
 It is currently configured as a Forge 1.20.1 modded server, and you can find the list of mods [here](server_config/extras).
 
