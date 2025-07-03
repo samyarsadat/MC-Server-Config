@@ -1,43 +1,48 @@
 # CurseForge Mods List - Auto-downloaded
+carry-on
 create
-bellsandwhistles
-create-ore-excavation
 create-misc-and-things
+create-new-furnitures
+createaddition
 create-encased
 create-mechanical-spawner
+create-stuff-additions
+bellsandwhistles
+create-central-kitchen
+create-connected
+create-design-n-decor
+create-dragons-plus
+create-dreams-desires
+create-enchantment-industry
+create-escalated
+create-extra-gauges
+fishing-bobber-detector
+garnished
+create-liquid-fuel
+create-mobile-packages
+create-pillager-arise
+create-sound-of-steam
+create-industry
+create-trading-floor
 create-ultimate-factory
+create-winery
+fastsuite
+fastfurnace
+fastworkbench
 immersive-engineering
-pretty-pipes
+jei
+lithium
+mimi-mod
 storage-drawers
 supplementaries
-selene
-refined-storage
-kotlin-for-forge
-geckolib
-architectury-api
-jei
+supplementaries-squared
+xaeros-minimap
+xaeros-world-map
 
-# 1.20.1 Limited
-create-industry
-create-liquid-fuel
-create-armory
-create-guardian-beam-defense
-create-diesel-generators
-create-central-kitchen
-createaddition
-slice-and-dice
-create-new-age
-create-goggles
-create-enchantment-industry
-interiors
-botarium
+# Dependencies
+placebo
+mechanicals-lib
+selene
 
 # Server-only
 clumps
-
-# 1.20.1 Create 0.6 Error
-#fishing-bobber-detector
-#create-connected
-#create-steam-n-rails
-#create-big-cannons
-#create-radars

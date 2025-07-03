@@ -2,10 +2,96 @@
   "type": "resourcepacks",
   "version": "1.21",
   "packs": {
-    "aesthetic": [
+    "Aesthetic": [
       "CherryPicking",
-      "BlackNetherBricks",
-      "AlternateBlockDestruction"
+      "SidewaysNuggets",
+      "BetterParticles",
+      "GoldenCrown"
+    ],
+    "Terrain": [
+      "CircleLogTops",
+      "SmootherOakLog"
+    ],
+    "Variation": [
+      "VariatedBookshelves"
+    ],
+    "Peace and Quiet": [
+      "QuieterDispensersDroppers",
+      "QuieterMinecarts"
+    ],
+    "Utility": [
+      "FullAgeCropMarker",
+      "FullAgeAmethystMarker",
+      "DifferentStems",
+      "Age25Kel",
+      "MusicDiscRedstonePreview",
+      "StickyPistonSides",
+      "DirectionalHoppers",
+      "DirectionalDispensersDroppers",
+      "BetterObservers",
+      "GroovyLevers",
+      "CompassLodestone",
+      "VisualHoney",
+      "VisualCauldronStages",
+      "VisualComposterStages",
+      "VisualSapplingGrowth",
+      "NoteblockBanners"
+    ],
+    "3D": [
+      "3DChiseledBookshelves",
+      "3DChains",
+      "3DPointedDripstone",
+      "3DMace",
+      "3DLadders",
+      "3DRails",
+      "3DSugarcane",
+      "3DIronBars",
+      "3DLilyPads",
+      "3DMushrooms",
+      "3DVines",
+      "3DGlowLichen",
+      "3DSculkVein",
+      "3DStonecutters",
+      "3DRedstoneWire",
+      "3DBookshelves",
+      "3DAmethyst",
+      "3DTiles",
+	    "3DDoors"
+    ],
+    "GUI": [
+      "NumberedHotbar",
+      "PingColorIndicator",
+      "RainbowExperience"
+    ],
+    "World of Color": [
+      "UniqueDyes"
+    ],
+    "Fixes and Consistency": [
+      "HoeFix",
+      "ItemStitchingFix",
+      "DripleafFixBig",
+      "DripleafFixSmall",
+      "ConsistentDecorPot",
+      "ConsistentBucketFix",
+      "ConsistentTadpoleBucket",
+      "CactusBottomFix",
+      "PixelConsistentGhast",
+      "PixelConsistentElderGuardian",
+      "PixelConsistentWither",
+      "TripwireHookFix",
+      "PixelConsistentSigns",
+      "PixelConsistentXPOrbs",
+      "PixelConsistentBeaconBeam",
+      "PixelConsistentSonicBoom",
+      "PixelConsistentGuardianBeam",
+      "SoulSoilSoulCampfire",
+      "BlazeFix",
+      "SlimeParticleFix",
+      "SandstoneWallTopFix",
+      "NoBowlParticles",
+      "ItemHoldFix",
+      "ProperBreakParticles",
+      "RedstoneWireFix"
     ]
   }
 }

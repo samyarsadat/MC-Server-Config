@@ -2,13 +2,29 @@
   "type": "datapacks",
   "version": "1.21",
   "packs": {
-    "gameplay changes": [
-      "graves",
-      "multiplayer sleep",
-      "armored elytra"
+    "Decorative/Cosmetic": [
+      "mini blocks",
+      "more mob heads",
+      "silence mobs",
+      "player head drops",
+      "silence mobs"
     ],
-    "teleport commands": [
-      "tpa"
+    "Convenience": [
+      "cauldron concrete",
+      "cauldron mud",
+      "double shulker shells",
+      "fast leaf decay",
+      "more effective tools",
+      "painting picker"
+    ],
+    "Gameplay Changes": [
+      "anti enderman grief",
+      "graves",
+      "silk touch budding amethyst"
+    ],
+    "Informative": [
+      "real time clock",
+      ""
     ]
   }
 }

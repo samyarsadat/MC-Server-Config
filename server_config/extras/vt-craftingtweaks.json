@@ -2,10 +2,30 @@
   "type": "craftingtweaks",
   "version": "1.21",
   "packs": {
-    "quality of life": [
+    "Quality of Life": [
+      "back to blocks",
       "dropper to dispenser",
-      "double slabs",
-      "back to blocks"
+      "rotten flesh to leather",
+      "copper powered rails",
+      "charcoal to black dye",
+      "sandstone dyeing",
+      "universal dyeing",
+      "powder to glass"
+    ],
+    "More Blocks": [
+      "more trapdoors",
+      "more stairs"
+    ],
+    "Craftables": [
+      "craftable horse armor",
+      "craftable coral blocks 3x3",
+      "craftable notch apples",
+      "craftable name tags"
+    ],
+    "Unpackables": [
+      "unpackable ice",
+      "unpackable nether wart",
+      "unpackable wool"
     ]
   }
 }
