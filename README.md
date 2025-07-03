@@ -1,7 +1,7 @@
 <h1 align="center">Minecraft Server Configuration</h1>
 
 These are the configuration files for my private Minecraft server.\
-It is currently configured as a Forge 1.20.1 modded server, and you can find the list of mods [here](server_config/extras).
+It is currently configured as a NeoForge 1.21.1 modded server, and you can find the list of mods [here](server_config/extras).
 
 I'm using the `itzg/minecraft-server` Docker image for running the server. Note that you will have to create two files in the `server_config` directory to be able to run the server. One is a 64x64 pixel PNG file named `srv-icon.png`, which is used as the server icon, and the other is a `.env` file with the following contents:
 
