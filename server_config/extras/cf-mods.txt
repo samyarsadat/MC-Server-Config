@@ -1,3 +1,2 @@
-# CurseForge - RLCraft, JourneyMap
-rlcraft
+# CurseForge - JourneyMap
 journeymap
