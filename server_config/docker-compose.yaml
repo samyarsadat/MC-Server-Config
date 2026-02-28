@@ -24,12 +24,13 @@ services:
     ports:
       - "25565:25565"
 
-  web-rcon:
-    image: itzg/rcon
-    container_name: web-rcon
-    hostname: web-rcon
+  arrcon:
+    build: ./arrcon
+    container_name: arrcon
+    hostname: arrcon
     restart: unless-stopped
-    env_file: web-rcon.env
+    stdin_open: true
+    tty: true
     networks:
       mc-network:
         ipv4_address: 172.18.0.3
@@ -37,10 +38,7 @@ services:
       mc-server:
         condition: service_healthy
     environment:
-      RWA_RCON_PASSWORD: ${RCON_PASSWORD}
-    ports:
-      - "4326:4326"
-      - "4327:4327"
+      RCON_PASSWORD: ${RCON_PASSWORD}
 
 networks:
   mc-network:
