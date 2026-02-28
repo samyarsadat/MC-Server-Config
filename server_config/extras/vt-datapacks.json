@@ -6,8 +6,7 @@
       "mini blocks",
       "more mob heads",
       "silence mobs",
-      "player head drops",
-      "silence mobs"
+      "player head drops"
     ],
     "Convenience": [
       "cauldron concrete",
@@ -15,16 +14,16 @@
       "double shulker shells",
       "fast leaf decay",
       "more effective tools",
-      "painting picker"
+      "painting picker",
+      "unlock all recipes"
     ],
     "Gameplay Changes": [
-      "anti enderman grief",
-      "graves",
-      "silk touch budding amethyst"
+      "silk touch budding amethyst",
+      "armored elytra"
     ],
     "Informative": [
       "real time clock",
-      ""
+      "durability ping"
     ]
   }
 }
