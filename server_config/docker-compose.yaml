@@ -1,6 +1,6 @@
 services:
   mc-server:
-    image: itzg/minecraft-server:latest
+    image: itzg/minecraft-server:java21
     container_name: mc-server
     hostname: mc-server
     restart: unless-stopped
