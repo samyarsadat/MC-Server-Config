@@ -1,6 +1,6 @@
 <h1 align="center">Minecraft Server Configuration</h1>
 
-This branch is configured as a 1.21.1 NeoForge server with All of Create (AoC).
+This branch is configured as a 1.21.1 NeoForge server with All of Create (AoC) and some other mods.
 
 <br>
 
@@ -18,4 +18,4 @@ E-mail: samyarsadat@gigawhat.net<br>
 <br>
 <br>
 
-Copyright © 2025-2026 Samyar Sadat Akhavi.
+Copyright © 2026 Samyar Sadat Akhavi.
