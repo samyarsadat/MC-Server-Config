@@ -1,3 +1,12 @@
 # CurseForge Mods List - Auto-downloaded
 carry-on
 cobblemon
+refurbished-furniture
+cooking-for-blockheads
+cluttered
+kotlin-for-forge
+balm
+framework
+jurassic-reborn
+geckolib
+citadel
