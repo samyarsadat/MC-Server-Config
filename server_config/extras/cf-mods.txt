@@ -10,3 +10,4 @@ framework
 jurassic-reborn
 geckolib
 citadel
+worldedit
