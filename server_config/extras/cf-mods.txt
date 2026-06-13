@@ -2,12 +2,11 @@
 carry-on
 cobblemon
 refurbished-furniture
+cfm-wap
 cooking-for-blockheads
 cluttered
 kotlin-for-forge
 balm
 framework
-jurassic-reborn
 geckolib
-citadel
 worldedit
