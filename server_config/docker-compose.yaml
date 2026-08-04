@@ -9,6 +9,7 @@ services:
     env_file:
       - mc-srv.env
       - extras/mr-projects.env
+      - extras/cf-exclude-include.env
     networks:
       mc-network:
         ipv4_address: 172.18.0.2
