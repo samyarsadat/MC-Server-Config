@@ -1,6 +1,6 @@
 <h1 align="center">Minecraft Server Configuration</h1>
 
-This branch is configured as a 1.21.1 NeoForge server with All of Create (AoC) and some other mods.
+This branch is configured as a 1.20.1 NeoForge server with TerraFirmaGreg.
 
 <br>
 
